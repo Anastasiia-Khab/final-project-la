@@ -10,6 +10,6 @@ Data Science Master Programme
 Authors:
 Anastasiia Khaburska & Yarema Sirskiy
 
-MAIN NOTEBOOK : LA_NMF_PCA_VR.ipynb
+MAIN NOTEBOOK : #LA_NMF_PCA_VR.ipynb
 
 24 January 2019
